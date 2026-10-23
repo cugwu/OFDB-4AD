@@ -86,7 +86,7 @@ of the respective files.
 If you use this code or find our work helpful for your resarch, please cite the following papers:
 ```bibtex
 @misc{OFDB-4AD,
-  author = {cugwu},
+  author = {Cynthia I. Ugwu},
   title = {One-instance fractals for anomaly detection},
   year = {2025},
   url = {https://github.com/cugwu/OFDB-4AD},
